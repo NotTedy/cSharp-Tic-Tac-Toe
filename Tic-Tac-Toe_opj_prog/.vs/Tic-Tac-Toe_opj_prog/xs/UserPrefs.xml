@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{90F49C8F-804A-4178-83C8-FC3DF41272A1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Board.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="10" />
+      <File FileName="TicTacToe.cs" Line="63" Column="1" />
+      <File FileName="Player.cs" Line="17" Column="1" />
+      <File FileName="Board.cs" Line="32" Column="45" />
+      <File FileName="Square.cs" Line="21" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Tic-Tac-Toe__opj__prog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/tedymduma/Documents/systemvetenskap_a/Tic-Tac-Toe_opj_prog/Tic-Tac-Toe_opj_prog/obj/Debug/netcoreapp2.1/Tic-Tac-Toe_opj_prog.csprojAssemblyReference.cache
+/Users/tedymduma/Documents/systemvetenskap_a/Tic-Tac-Toe_opj_prog/Tic-Tac-Toe_opj_prog/obj/Debug/netcoreapp2.1/Tic-Tac-Toe_opj_prog.AssemblyInfoInputs.cache
+/Users/tedymduma/Documents/systemvetenskap_a/Tic-Tac-Toe_opj_prog/Tic-Tac-Toe_opj_prog/obj/Debug/netcoreapp2.1/Tic-Tac-Toe_opj_prog.AssemblyInfo.cs
+/Users/tedymduma/Documents/systemvetenskap_a/Tic-Tac-Toe_opj_prog/Tic-Tac-Toe_opj_prog/bin/Debug/netcoreapp2.1/Tic-Tac-Toe_opj_prog.deps.json
+/Users/tedymduma/Documents/systemvetenskap_a/Tic-Tac-Toe_opj_prog/Tic-Tac-Toe_opj_prog/bin/Debug/netcoreapp2.1/Tic-Tac-Toe_opj_prog.runtimeconfig.json
+/Users/tedymduma/Documents/systemvetenskap_a/Tic-Tac-Toe_opj_prog/Tic-Tac-Toe_opj_prog/bin/Debug/netcoreapp2.1/Tic-Tac-Toe_opj_prog.runtimeconfig.dev.json
+/Users/tedymduma/Documents/systemvetenskap_a/Tic-Tac-Toe_opj_prog/Tic-Tac-Toe_opj_prog/bin/Debug/netcoreapp2.1/Tic-Tac-Toe_opj_prog.dll
+/Users/tedymduma/Documents/systemvetenskap_a/Tic-Tac-Toe_opj_prog/Tic-Tac-Toe_opj_prog/bin/Debug/netcoreapp2.1/Tic-Tac-Toe_opj_prog.pdb
+/Users/tedymduma/Documents/systemvetenskap_a/Tic-Tac-Toe_opj_prog/Tic-Tac-Toe_opj_prog/obj/Debug/netcoreapp2.1/Tic-Tac-Toe_opj_prog.dll
+/Users/tedymduma/Documents/systemvetenskap_a/Tic-Tac-Toe_opj_prog/Tic-Tac-Toe_opj_prog/obj/Debug/netcoreapp2.1/Tic-Tac-Toe_opj_prog.pdb
